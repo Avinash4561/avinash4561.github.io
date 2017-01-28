@@ -1,0 +1,96 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+            
+  
+
+
+.bottomPage{
+    bottom: 10px;
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#image
+{
+ padding-top: 40px;
+ padding-right: 0px;
+ padding-left: 10px;
+ padding-bottom: 5px;
+}
+
+#video
+{
+ padding-top: 70px;
+ padding-right: 0px;
+ padding-left: 10px;
+ padding-bottom: 5px;
+}
+
+#format
+{
+    font-size:40px;
+    color: white;
+    text-align: left;
+}
+
+.border
+{
+    border-style: solid;
+    border-width: 5px;
+}
+
+html {
+   margin: 0px;
+   height: 100%;
+   width: 100%;
+}
+
+.size
+{
+    width: 500px;
+    height: 100px;
+}
+
+#color
+{
+    color:darkviolet;
+    font-size: 36px;
+    text-align: center;
+}
+
+.align{
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
